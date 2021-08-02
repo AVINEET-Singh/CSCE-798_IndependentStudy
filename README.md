@@ -9,4 +9,4 @@ However, ‘Pribot’ does not provide the comparison between the previous versi
 
 
 ### Approach 1:
-![Approach 1](/CSCE-798_IndependentStudy/Approach_1.png)
+![Approach 1](/CS-798_Independent Study/Approach_1.png)
