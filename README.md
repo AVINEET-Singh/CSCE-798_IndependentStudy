@@ -10,3 +10,7 @@ However, ‘Pribot’ does not provide the comparison between the previous versi
 
 ### Approach 1:
 ![Approach 1](/Approach_1.png)
+
+
+### Approach 2 and 3:
+![Approach 2 and 3](/Approach_2a_2b.png)
